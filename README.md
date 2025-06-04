@@ -52,6 +52,7 @@ Issued by: Coursera
 ## 💼 Experience
 
 **Event Team Member – Computer Society of India (CSI)**
+
 *September 2024 – April 2025*  
 - Organized and coordinated technical events, workshops, and seminars for students.
 - Collaborated with peers to conduct activities.
