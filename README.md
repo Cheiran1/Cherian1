@@ -21,9 +21,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### 🧠 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-5A9BD4?style=for-the-badge&logo=gnu&logoColor=white)
+
 
 
 
