@@ -1,5 +1,5 @@
 # Hello, I'm Cherian Shaji
-I’m pursuing a B.Tech in Computer Science, specializing in Cybersecurity.
+I’m pursuing a B.Tech in Computer Science, specializing in Cybersecurity. I am passionate about technology and security, and I thrive on solving problems and facing new challenges. My curiosity and dedication drive me to continuously learn and grow, both personally and professionally. I believe that every challenge is an opportunity to innovate and improve, and I look forward to applying my skills to create secure and efficient solutions in the tech world.
 ## Connect with me
 <a href="https://linkedin.com/in/cherian-shaji-b64391284"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherianshaji2004@gmail.com)
