@@ -1,7 +1,7 @@
 # Hello, I'm Cherian Shaji
 <a href="https://linkedin.com/in/cherian-shaji-b64391284"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-📧 [cherianshaji2004@gmail.com](mailto:cherianshaji2004@gmail.com)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherianshaji2004@gmail.com)
 
 I’m pursuing a B.Tech in Computer Science, specializing in Cybersecurity.
 
