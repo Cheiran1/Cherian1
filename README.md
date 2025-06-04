@@ -12,8 +12,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SIEM Tools](https://img.shields.io/badge/SIEM_Tools-0052CC?style=for-the-badge&logo=datadog&logoColor=white)
-![Vulnerability Assessment & Management](https://img.shields.io/badge/Vulnerability_Assessment-E34F26?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Vulnerability Assessment and Management](https://img.shields.io/badge/Vulnerability_Assessment_and_Management-E34F26?style=for-the-badge&logo=bugcrowd&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-6A1B9A?style=for-the-badge&logo=hackthebox&logoColor=white)
+
 
 
 ## Certificates
