@@ -26,6 +26,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ![C](https://img.shields.io/badge/C-5A9BD4?style=for-the-badge&logo=gnu&logoColor=white)
 
 
+## 🔑 Core Competencies
+
+- Problem Solving
+- Analytical Thinking
+- Effective Communication
+- Team Collaboration
+
+## 🎯 Leadership & Activities
+
+- Event Management (CSI Event Team Member)
+
+
 
 
 ## Certificates
