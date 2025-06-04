@@ -25,3 +25,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 Credential ID: 7UFGM0M9KHWF  
 Issued by: Coursera  
 [Verify Certificate](https://coursera.org/verify/professional-cert/7UFGM0M9KHWF)
+
+
+## 💼 Experience
+
+**Event Team Member – Computer Society of India (CSI)**
+*September 2024 – April 2025*  
+- Organized and coordinated technical events, workshops, and seminars for students.
+- Collaborated with peers to conduct activities.
+- Gained hands-on experience in event planning, technical communication, and public engagement.
+
