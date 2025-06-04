@@ -9,12 +9,21 @@ I’m pursuing a B.Tech in Computer Science, specializing in Cybersecurity. I am
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, specifically aiming to join a Security Operations Center (SOC).
 
-## 🛡️ Cybersecurity Skills
+## 🛠️ Technical Skills
+
+### 🛡️ Cybersecurity Skills
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SIEM Tools](https://img.shields.io/badge/SIEM_Tools-0052CC?style=for-the-badge&logo=datadog&logoColor=white)
-![Vulnerability Assessment and Management](https://img.shields.io/badge/Vulnerability_Assessment_and_Management-E34F26?style=for-the-badge&logo=bugcrowd&logoColor=white)
-![Incident Response](https://img.shields.io/badge/Incident_Response-6A1B9A?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Threat and Vulnerability Management](https://img.shields.io/badge/Threat_and_Vulnerability_Management-E34F26?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Security Incident Response](https://img.shields.io/badge/Security_Incident_Response-6A1B9A?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-008080?style=for-the-badge&logo=fortinet&logoColor=white)
+
+### 🧠 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 
