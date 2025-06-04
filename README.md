@@ -39,7 +39,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
-
 ## Certificates
 
 ### 🔒 [Google Cybersecurity Professional Certificate – Coursera](https://coursera.org/verify/professional-cert/7UFGM0M9KHWF)
@@ -47,6 +46,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 Credential ID: 7UFGM0M9KHWF  
 Issued by: Coursera  
 [Verify Certificate](https://coursera.org/verify/professional-cert/7UFGM0M9KHWF)
+
+---
+
+### 🛡️ [TryHackMe Cybersecurity Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AKNJGDQSG0.pdf)
+
+Issued by: TryHackMe  
+[View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AKNJGDQSG0.pdf)
 
 
 ## 💼 Experience
