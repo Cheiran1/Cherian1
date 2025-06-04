@@ -9,7 +9,8 @@ I’m pursuing a B.Tech in Computer Science, specializing in Cybersecurity.
 My journey in computer science has led me to develop a passion for cybersecurity, specifically aiming to join a Security Operations Center (SOC).
 
 ## Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ## Certificates
